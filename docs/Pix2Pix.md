@@ -1,6 +1,6 @@
 ---
 title: Pix2Pix Colorization using cGan
-layout: defalut
+layout: home
 nav_order: 2
 ---
 
