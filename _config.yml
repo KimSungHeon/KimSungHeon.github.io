@@ -1,6 +1,7 @@
 title: Pix2Pix Colorization (cGan)
 description: Pix2Pix colorization using cGan
 theme: just-the-docs
+color_scheme: dark
 
 url: https://just-the-docs.github.io
 
