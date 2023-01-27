@@ -1,6 +1,6 @@
 ---
-layout: defalut
 title: Pix2Pix Colorization using cGan
+layout: defalut
 nav_order: 2
 ---
 
