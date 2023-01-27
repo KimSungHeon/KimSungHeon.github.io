@@ -1,7 +1,7 @@
 ---
 layout: defalut
 title: Pix2Pix Colorization using cGan
-nav_order: 4
+nav_order: 2
 ---
 
 # Pix2Pix structure
