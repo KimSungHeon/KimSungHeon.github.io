@@ -4,7 +4,7 @@ layout: home
 nav_order: 2
 ---
 
-# Pix2Pix structure
+# Pix2Pix Colorization
 {:.no_toc}
 
 ## Table of contents
