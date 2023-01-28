@@ -6,4 +6,4 @@ permalink: docs/study/kaggle
 has_children: true
 ---
 
-# 타이타
+# 타이타닉
