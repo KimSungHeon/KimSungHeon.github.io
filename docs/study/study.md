@@ -1,9 +1,11 @@
 ---
-title: 공부한 것
 layout: default
-nav_order: 2
-has_children: true
-permalink: /docs/study
+title: Pix2Pix
+nav_order: 1
+---
 
-# Study
-Sstudye Page tests
+# Pix2Pix Colorization (cGan)
+{:.no_toc}
+
+Pix2Pix test
+{: ,fs-6 ,fw-300}
