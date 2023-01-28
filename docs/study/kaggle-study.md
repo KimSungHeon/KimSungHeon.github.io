@@ -3,6 +3,7 @@ layout: default
 title: kaggle 공부
 nav_order: -1
 has_children: true
-permalink: /docs/study/kaggle
+permalink: /docs/study/kaggl
+parent: 공부한 
 ---
 
