@@ -7,3 +7,4 @@ permalink: /docs/study/kaggle
 parent: 공부한 것
 ---
 
+# kaggle 
