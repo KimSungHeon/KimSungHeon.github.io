@@ -2,7 +2,7 @@
 layout: default
 title: Pix2Pix
 nav_order: 1
-parent: study
+parent: 공부한 것
 ---
 
 # Pix2Pix
