@@ -1,10 +1,10 @@
 ---
 layout: default
 parent: kaggle 공부
-permalink: doc2/kaggle study/titanic
+permalink: doc2/kaggle study/binary classification
 has_children: true
 nav_order: 1
-title: 타이타닉
+title: 이진 분류
 ---
 
-# 타이타닉
+# 이진 분류
