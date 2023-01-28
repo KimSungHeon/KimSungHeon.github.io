@@ -1,8 +1,9 @@
 ---
 layout: default
 nav_order: 1
-parent: 타이타닉
+parent: binary classification
 title: 연습 1
+permalink: doc2/kaggle study/binary classification
 ---
 
 # 하이
