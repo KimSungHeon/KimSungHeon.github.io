@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Style Transfer
-nav_order: 3
-parent: 공부한 것
+nav_order: 2
+parent: 논문 
 categories: [None]
 tags: [None]
 ---
