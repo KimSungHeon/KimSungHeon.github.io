@@ -1,8 +1,8 @@
 ---
 layout: default
-parent: kaggle 공부
+parent: kaggle
 has_children: true
-title: 안녕
+title: 
 ---
 
-# 안녕
+# in progress
