@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 parent: 개인 아이디어
 has_children: true
 title: 
