@@ -6,5 +6,5 @@ has_children: true
 permalink: /docs/study
 ---
 
-# study
-test
+
+
