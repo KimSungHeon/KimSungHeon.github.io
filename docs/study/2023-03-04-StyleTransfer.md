@@ -2,7 +2,7 @@
 layout: post
 title: Style Transfer
 nav_order: 2
-parent: 논문 
+parent: 논문 구현
 categories: [None]
 tags: [None]
 ---
