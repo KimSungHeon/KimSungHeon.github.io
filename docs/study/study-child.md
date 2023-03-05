@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Pix2Pix
-nav_order: 1
-parent: 공부한 것
+nav_order: 3
+parent: 논문 구현
 ---
 
 # Pix2Pix
